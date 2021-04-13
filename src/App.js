@@ -7,7 +7,7 @@ import CityWeather from './components/CityWeather'
 import {campusCities} from './data/cities'
 
 
-const apiKey = '362ca92f1ed1f07b88b99f859a2cc551'
+const apiKey = 'secretToken'
 
 
 
